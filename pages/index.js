@@ -21,7 +21,7 @@ export default function Home() {
         />
       </div> */}
 
-      <div className="mb-32 flex text-center lg:mb-0 lg:grid-cols-4 lg:text-left justify-center content-center relative -top-20 gap-6 mt-10 ">
+      <div className="mb-32 flex text-center lg:mb-0 lg:grid-cols-4 lg:text-left justify-center content-center relative -top-20 gap-6 mt-10 text-white ">
 
         <Link
           href='/login'

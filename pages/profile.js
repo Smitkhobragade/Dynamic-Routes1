@@ -12,7 +12,7 @@ const LoginPage = () => {
   };
 
   return (
-    <div className='flex items-center justify-center h-screen bg-black'>
+    <div className='flex items-center justify-center h-screen bg-black text-white'>
       <div>
         <h1 className='my-6 text-center text-3xl font-bold'>Login To List</h1>
         <form onSubmit={handleLogin} className='flex flex-col'>
