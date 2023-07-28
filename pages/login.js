@@ -12,7 +12,7 @@ const LoginPage = () => {
   };
 
   return (
-    <div className='h-fit flex flex-row content-center justify-center p-5 min-h-screen'>
+    <div className='h-fit flex flex-row content-center justify-center p-5 min-h-screen bg-black'>
       <div className='flex  content-center justify-center p-4'>
         <div className=' self-center'>
           <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdlYnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="" />

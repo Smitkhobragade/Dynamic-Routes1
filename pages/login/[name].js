@@ -5,7 +5,7 @@ const LoginPage = () => {
   const { name } = router.query;
 
   return (
-    <div className='text-6xl text-center mt-10'>
+    <div className='text-6xl text-center mt-10 bg-black'>
       <h1>Welcome, {name}!</h1>
     </div>
   );

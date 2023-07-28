@@ -18,7 +18,7 @@ const ProfileP = () => {
   };
 
   return (
-    <div className='flex flex-col items-center justify-center h-screen'>
+    <div className='flex flex-col items-center justify-center h-screen bg-black'>
       <h1 className='text-4xl font-bold my-4'>Welcome to your Profile!</h1>
       <h2 className='text-4xl font-bold my-4'>Your ToDo List</h2>
       <div className='flex flex-col'>
